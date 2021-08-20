@@ -21,6 +21,8 @@ public class Main {
         SingletonBillPugh obj4 = SingletonBillPugh.getInstance();
         obj4.displayMsg();
 
+        SingletonEnum obj5 = SingletonEnum.Instance;
+
 
 
     }

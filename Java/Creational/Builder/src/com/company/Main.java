@@ -10,6 +10,7 @@ public class Main {
         Student st =  new StudentBuilder().setIndex("184116R").setName("W.P.C.P. Pathirana").getStudent();
         System.out.println(st);
         System.out.println(stu);
+
     }
 }
 
